@@ -2,6 +2,8 @@
 
 ## Pizze klasyczne
 
+<ing src ="img/pinar-kucuk-Ae7jQFDTPk4-unsplash.jpg" width=300 >
+
 1.MARGHERITA(sos pomidorowy,ser, oregano) 20 zł
 2.FUNGHI    (sos pomidorowy,ser mozzrella,pieczarki) 22 zł
 3.SALAMI    (sos pomidorowy,ser mozzrella,salami) 23 zł
