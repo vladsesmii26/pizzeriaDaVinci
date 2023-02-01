@@ -57,7 +57,7 @@
 
 <img src ="joyce-mutesva-_a3h5juI7bg-unsplash.jpg" width=300 >
 
-1.Juice - 7 zł
+1.Juice - 8 zł
 2.Mojito - 13 zł
 3.Uzwar - 6 zł
 
