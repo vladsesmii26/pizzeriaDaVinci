@@ -1,2 +1,2 @@
 # pizzeriaDaVinci
-Ten plik należy do gałęzi Vegeterian.
+To jest strona naszej pizzerii.
