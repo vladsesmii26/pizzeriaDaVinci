@@ -18,11 +18,26 @@
 
 |Lp.| Pizze Vege:                                               |rozmiar:|30 cm | 45 cm|50 cm|
 |----------------|----------------------------------------------|--------|------|------|-----|
-|     1.Pomidoro |                                              |        |  28  |   30 |   45|                         
-|     2.Ogirok   |                                              |        |  28  |   30 |   45|   
-|     3.Paper    |                                              |        |  28  |   30 |   45|  
-|     4.Gorokh   |                                              |        |  28  |   30 |   45|  
-|     5.Fruit    |                                              |        |  28  |   30 |   45| 
+|     1.Pomidoro | (sos pomidorowy,ser mozzrella,pieczarki)	                                             |        |  28  |   30 |   45|                         
+|     2.Ogirok   | (sos pomidorowy,ser mozzrella,pieczarki)	                                             |        |  28  |   30 |   45|   
+|     3.Paper    | (sos pomidorowy,ser mozzrella,pieczarki)	                                             |        |  28  |   30 |   45|  
+|     4.Gorokh   | (sos pomidorowy,ser mozzrella,pieczarki)	                                             |        |  28  |   30 |   45|  
+|     5.Fruit    | (sos pomidorowy,ser mozzrella,pieczarki)	                                             |        |  28  |   30 |   45| 
+
+### Pizze Vegateriano
+
+<img src ="img/sahal-hameed-Nq9KlQTTEbQ-unsplash.jpg" width=300 >
+
+|Lp.| Pizze Vege:                                                 |rozmiar:|30 cm | 45 cm|50 cm|
+|------------------------|----------------------------------------|--------|------|------|-----|
+|     1.Oliwko           |(sos pomidorowy,ser mozzrella,pieczarki)|        |  28  |   30 |   45|                         
+|     2.Cebulo           |(sos pomidorowy,ser mozzrella,pieczarki)|        |  28  |   30 |   45|   
+|     3.Coctailo pomidoro|(sos pomidorowy,ser mozzrella,pieczarki)|        |  28  |   30 |   45|  
+|     4.Egg and cheese   |(sos pomidorowy,ser mozzrella,pieczarki)|        |  28  |   30 |   45|  
+|     5.Fish             |(sos pomidorowy,ser mozzrella,pieczarki)|        |  28  |   30 |   45| 
+
+
+
 
 ### Napoje
 <img src ="img/piret-ilver-uKp_coL3jNg-unsplash.jpg" width=300 >
