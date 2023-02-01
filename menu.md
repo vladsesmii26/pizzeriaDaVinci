@@ -50,3 +50,19 @@
 |4.   Aperol Spritz   |                                        |          |  28  |   30 |   45|  
 |5.   Fruit juice     |                                        |          |  28  |   30 |   45| 
 
+
+
+
+## Bezalkoholowe Napoje
+1.Juice - 7 zł
+2.Mojito - 13 zł
+3.Uzwar - 6 zł
+
+
+
+
+
+
+
+
+
